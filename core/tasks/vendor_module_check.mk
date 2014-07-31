@@ -32,6 +32,7 @@ _vendor_owner_whitelist := \
         samsung_arm \
         ti \
         trusted_logic \
+	nagravision \
         widevine
 
 

@@ -21,6 +21,10 @@
 
 PRODUCT_PACKAGES := \
     libfwdlockengine \
+    libmockdrmcryptoplugin \
+    libdrmpassthruplugin \
+    libnvdrmplugin \
+    libnvcryptoplugin \
     WAPPushManager
 
 # Additional settings used in all AOSP builds
